@@ -79,7 +79,7 @@ Here is the code snippet and the resulting table.
 
 `Query output`
 <br/>
-<img src="Images/11_Inventory_shortage.png" alt="Alt text" style="display:block; margin:auto; width:90%;" />
+<img src="Images/11_inventory_shortage.png" alt="Alt text" style="display:block; margin:auto; width:90%;" />
 
 - **`Task 2.5: Check which products have high inventory in a given warehouse.`** This query lists out the specific product inventory level at each warehouse. This enables the company to identify those products and reduce its inventory level at a particular warehouse, making it easier to decide which warehouse to close or downsize. Since we previously identified that the south warehouse is relatively inactive, if we identify products with high inventory in that warehouse and reduce its inventory level, it further reduces the overall inventory level at the store and makes the decision to close or further downsize much easier.
 Here is the code snippet and the resulting table.
