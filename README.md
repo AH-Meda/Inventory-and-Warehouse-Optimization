@@ -36,6 +36,7 @@ In this step, we examine the data and extract meaningful insights that will aid 
    Here is the code snippet and the resutling table.
 
 `Code snippet`
+<br/>
 <img src="Images/4_KeyinfoSqlQ.png" alt="Alt text" style="display:block; margin:auto; width:60%;" />
 
 `Query output`
@@ -48,6 +49,7 @@ In this step, we examine the data and extract meaningful insights that will aid 
 <img src="Images/6_totalinventoryCS.png" alt="Alt text" style="display:block; margin:auto; width:60%;" />
 
 `Query output`
+<br/>
 <img src="Images/7_Total Inventory.png" alt="Alt text" style="display:block; margin:auto; width:15%;" />
 <img src="Images/8_wh total inventory.png" alt="Alt text" style="display:block; margin:auto; width:45%;" />
 
@@ -58,9 +60,11 @@ The query results indicates that the Wareahouse Named South holds only small fra
 Here is the code snippet and the resulting table.
   
 `Code snippet`
+<br/>
 <img src="Images/9_Surplus_inventoryCS.png" alt="Alt text" style="display:block; margin:auto; width:80%;" />
 
 `Query output`
+<br/>
 <img src="Images/10_Surplus_inventory.png" alt="Alt text" style="display:block; margin:auto; width:90%;" />
 
 
@@ -70,18 +74,22 @@ The query results indicate items with high inventory level with some 10 times th
 Here is the code snippet and the resulting table.
   
 `Code snippet`
+<br/>
 <img src="Images/11_Inventory_shortageCS.png" alt="Alt text" style="display:block; margin:auto; width:80%;" />
 
 `Query output`
+<br/>
 <img src="Images/11_Inventory_shortage.png" alt="Alt text" style="display:block; margin:auto; width:90%;" />
 
 - **`Task 2.5: Check which products have high inventory in a given warehouse.`** This query lists out the specific product inventory level at each warehouse. This enables the company to identify those products and reduce its inventory level at a particular warehouse, making it easier to decide which warehouse to close or downsize. Since we previously identified that the south warehouse is relatively inactive, if we identify products with high inventory in that warehouse and reduce its inventory level, it further reduces the overall inventory level at the store and makes the decision to close or further downsize much easier.
 Here is the code snippet and the resulting table.
   
 `Code snippet`
+<br/>
 <img src="Images/12_SouthInventryLevelCS.png" alt="Alt text" style="display:block; margin:auto; width:80%;" />
 
 `Query output`
+<br/>
 <img src="Images/12_SouthInventryLevel.png" alt="Alt text" style="display:block; margin:auto; width:60%;" />
 
 The query result identified products with high inventory levels. If the inventory level of those products is optimized, the decision to close down or downsize is much easier.
