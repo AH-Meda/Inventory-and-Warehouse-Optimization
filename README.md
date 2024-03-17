@@ -39,7 +39,7 @@ In this step, we examine the data and extract meaningful insights that will aid 
 <img src="Images/4_KeyinfoSqlQ.png" alt="Alt text" style="display:block; margin:auto; width:60%;" />
 
 `Query output`
-<img src="Images/5_Keyinf.png" alt="Alt text" style="display:block; margin:auto; width:99%;" />
+<img src="Images/5_KeyInf.png" alt="Alt text" style="display:block; margin:auto; width:99%;" />
 
 - **`Task 2.2: Check the total inventory across all warehouses.`** This query result shows the total number of items currently in stock. 
    Here is the code snippet and the resutling table.
